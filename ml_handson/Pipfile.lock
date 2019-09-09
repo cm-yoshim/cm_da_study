@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f2e914a311ddeea01a6bfbdaa3f8db636adea76224f32bb564beed8a624b695c"
+            "sha256": "b577577141a6910814a79ab7c148d480387ced567dd5e5b3939d227173c4f91d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -106,9 +106,9 @@
         },
         "gast": {
             "hashes": [
-                "sha256:b3ff536c7637979ca7bca9c73e73afbda883a714bf167062b460e624c28bffcc"
+                "sha256:cc987dad3bea3104cd1cc4832c7d864023eb4578043b63ee061c7b42febd4c16"
             ],
-            "version": "==0.3.0"
+            "version": "==0.3.1"
         },
         "google-pasta": {
             "hashes": [
@@ -120,10 +120,10 @@
         },
         "graphviz": {
             "hashes": [
-                "sha256:8adc6460f9eddca440b826dd89790090d76fb8e693e2206fd4c2a4ed80841999",
-                "sha256:c60e232a66e4847f9f644fbaa94730ca4f78385a1314a2cc1e7f4cb2d7461298"
+                "sha256:dc08677f37c65a4a480f00df4bd0d19a0a103c06aad95f21a37f0b7fd440de81",
+                "sha256:df54c2e0d2c8df6aee3397eb44de186d94e2a0610f4052649bfbb26d03d56850"
             ],
-            "version": "==0.12"
+            "version": "==0.13"
         },
         "grpcio": {
             "hashes": [
@@ -562,6 +562,14 @@
             ],
             "markers": "os_name != 'nt'",
             "version": "==0.6.0"
+        },
+        "pydot": {
+            "hashes": [
+                "sha256:67be714300c78fda5fd52f79ec994039e3f76f074948c67b5ff539b433ad354f",
+                "sha256:d49c9d4dd1913beec2a997f831543c8cbd53e535b1a739e921642fe416235f01"
+            ],
+            "index": "pypi",
+            "version": "==1.4.1"
         },
         "pydotplus": {
             "hashes": [

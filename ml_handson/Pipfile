@@ -16,6 +16,7 @@ jupyterlab = "==1.1.1"
 pydotplus = "==2.0.2"
 keras = "==2.2.5"
 tensorflow = "==1.14.0"
+pydot = "==1.4.1"
 
 [dev-packages]
 pytest = "==5.1.2"
