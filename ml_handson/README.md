@@ -22,7 +22,7 @@ $ brew install pipenv
 $ # リポジトリをclone
 $ git clone https://github.com/cm-yoshim/cm_da_study.git
 $ # ディレクトリ移動
-$ cd ml_handson
+$ cd cm_da_study/ml_handson/
 $ pipenv install -d
 ```
 
