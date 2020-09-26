@@ -15,7 +15,7 @@ catboost = "==0.16.5"
 jupyterlab = "==1.1.1"
 pydotplus = "==2.0.2"
 keras = "==2.2.5"
-tensorflow = "==1.14.0"
+tensorflow = "==1.15.4"
 pydot = "==1.4.1"
 
 [dev-packages]
